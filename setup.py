@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="pioreactor_high_temp_plugin",
-    version="0.0.3",
+    name="pioreactor-high-temp-plugin",
+    version="0.1.0",
     license="MIT",
     description="Do not use this. Using this risks damaging your Pioreactor or harming yourself. All responsibility is on you.",
     long_description=open("README.md").read(),
