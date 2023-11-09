@@ -4,9 +4,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="pioreactor-high-temp-plugin",
-    version="0.1.1",
+    version="0.2.0",
     license="MIT",
-    description="Do not use this. Using this risks damaging your Pioreactor or harming yourself. All responsibility is on you.",
+    description="Using this risks damaging your Pioreactor or harming yourself. Only use with the high-temp plastics provided.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author_email="cam@pioreactor.com",
